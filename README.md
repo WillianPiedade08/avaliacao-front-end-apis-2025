@@ -88,6 +88,6 @@ Serão avaliados os seguintes pontos:
 
 ![](./assets/Captura%20de%20tela%202025-07-29%20164354.png)
 
-## Infofrmação do Posts
+## Informação do Posts
 
-![](./assets/Captura%20de%20tela%202025-07-29%20164354.png)
+![](./assets/Captura%20de%20tela%202025-07-29%20164330.png)
